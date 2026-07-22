@@ -59,5 +59,5 @@ Construir uma carreira em **Desenvolvimento de Software**, **Engenharia de Dados
 ## 📫 Contato
 
 - 💼 LinkedIn: www.linkedin.com/in/joao-pedro-penna
-- 🌐 Portfólio: joaopedropenna.github.io/portfolio
+- 🌐 Portfólio: https://joaopedropenna.github.io/portfolio
 - 📧 E-mail: K1ury@hotmail.com
