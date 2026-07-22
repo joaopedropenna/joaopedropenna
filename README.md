@@ -9,7 +9,7 @@
 
 🛠 Atualmente atuo com Suporte de TI na Prefeitura Municipal de Rio Claro.
 
----
+...
 
 ## 📚 Atualmente estudando
 
@@ -20,7 +20,7 @@
 - SQL
 - Git
 
----
+...
 
 ## 💻 Tecnologias
 
@@ -41,7 +41,7 @@
 - Windows
 - Linux
 
----
+...
 
 ## 🚀 Projetos em destaque
 
@@ -49,7 +49,7 @@
 - 📝 Lista de Tarefas em Python
 - 💻 Página HTML/CSS (Alura)
 
----
+...
 
 ## 🎯 Objetivo
 
@@ -61,7 +61,7 @@ Construir uma carreira em Desenvolvimento de Software, Engenharia de Dados e Seg
 - Engenharia de Dados
 - Segurança da Informação
 
----
+...
 
 ## 📫 Contato
 
