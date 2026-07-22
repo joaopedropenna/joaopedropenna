@@ -9,19 +9,18 @@
 
 🛠 Atualmente atuo com Suporte de TI na Prefeitura Municipal de Rio Claro.
 
-## 📚 Atualmente estudando:
+---
 
-Java
+## 📚 Atualmente estudando
 
-Python
+- Java
+- Python
+- HTML5
+- CSS3
+- SQL
+- Git
 
-HTML
-
-CSS
-
-SQL
-
-Git
+---
 
 ## 💻 Tecnologias
 
@@ -38,19 +37,31 @@ Git
 - Git
 - GitHub
 
-### Sistemas
+### Sistemas Operacionais
 - Windows
 - Linux
 
-## 🚀 Objetivo:
+---
+
+## 🚀 Projetos em destaque
+
+- 🌐 Portfólio Profissional
+- 📝 Lista de Tarefas em Python
+- 💻 Página HTML/CSS (Alura)
+
+---
+
+## 🎯 Objetivo
 
 Construir uma carreira em Desenvolvimento de Software, Engenharia de Dados e Segurança da Informação.
 
-## 🎯 Áreas de Interesse
+### Áreas de Interesse
 
 - Desenvolvimento Full Stack
 - Engenharia de Dados
 - Segurança da Informação
+
+---
 
 ## 📫 Contato
 
