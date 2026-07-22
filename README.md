@@ -9,10 +9,15 @@
 ## 📚 Atualmente estudando:
 
 Java
+
 Python
+
 HTML
+
 CSS
+
 SQL
+
 Git
 
 ## 💻 Tecnologias
