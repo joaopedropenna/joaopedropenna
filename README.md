@@ -1,6 +1,8 @@
-👋 Olá, eu sou João Pedro Penna
+<h1 align="center">👋 Olá, eu sou João Pedro Penna</h1>
 
+<p align="center">
 🎓 Graduando em Engenharia de Software
+</p>
 
 💻 Tecnólogo em Análise e Desenvolvimento de Sistemas
 
