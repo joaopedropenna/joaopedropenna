@@ -1,15 +1,14 @@
 <h1 align="center">👋 Olá, eu sou João Pedro Penna</h1>
 
 <p align="center">
-🎓 Graduando em Engenharia de Software
+🎓 Graduando em Engenharia de Software • 💻 Tecnólogo em Análise e Desenvolvimento de Sistemas
 </p>
 
+<p align="center">
+🛠️ Suporte de TI na Prefeitura Municipal de Rio Claro
+</p>
 
-💻 Tecnólogo em Análise e Desenvolvimento de Sistemas
-
-🛠 Atualmente atuo com Suporte de TI na Prefeitura Municipal de Rio Claro.
-
-...
+---
 
 ## 📚 Atualmente estudando
 
@@ -20,40 +19,36 @@
 - SQL
 - Git
 
-...
-
 ## 💻 Tecnologias
 
-### Linguagens
+### 👨‍💻 Linguagens
 - Java
 - Python
 - SQL
 
-### Desenvolvimento Web
+### 🌐 Desenvolvimento Web
 - HTML5
 - CSS3
 
-### Ferramentas
+### 🛠️ Ferramentas
 - Git
 - GitHub
-
-### Sistemas Operacionais
-- Windows
-- Linux
-
-...
+- VS Code
 
 ## 🚀 Projetos em destaque
 
-- 🌐 Portfólio Profissional
-- 📝 Lista de Tarefas em Python
-- 💻 Página HTML/CSS (Alura)
+- 🌐 **Portfólio Profissional**  
+  Primeiro site pessoal desenvolvido em HTML e CSS.
 
-...
+- 📝 **Lista de Tarefas em Python**  
+  Aplicação simples utilizando Python e SQLite.
+
+- 📄 **Página HTML/CSS (Alura)**  
+  Projeto desenvolvido durante os estudos de HTML e CSS.
 
 ## 🎯 Objetivo
 
-Construir uma carreira em Desenvolvimento de Software, Engenharia de Dados e Segurança da Informação.
+Construir uma carreira em **Desenvolvimento de Software**, **Engenharia de Dados** e **Segurança da Informação**, contribuindo para o desenvolvimento de soluções tecnológicas e mantendo uma evolução contínua como profissional.
 
 ### Áreas de Interesse
 
@@ -61,10 +56,8 @@ Construir uma carreira em Desenvolvimento de Software, Engenharia de Dados e Seg
 - Engenharia de Dados
 - Segurança da Informação
 
-...
-
 ## 📫 Contato
 
-- LinkedIn: https://linkedin.com/in/joao-pedro-penna
-- Portfólio: https://joaopedropenna.github.io/portfolio/
-- E-mail: K1ury@hotmail.com
+- 💼 LinkedIn: www.linkedin.com/in/joao-pedro-penna
+- 🌐 Portfólio: joaopedropenna.github.io/portfolio
+- 📧 E-mail: K1ury@hotmail.com
