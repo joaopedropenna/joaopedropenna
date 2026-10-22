@@ -13,6 +13,7 @@
 ## 📚 Atualmente estudando
 
 - Java
+- JavaScript
 - Python
 - HTML5
 - CSS3
@@ -25,6 +26,7 @@
 - Java
 - Python
 - SQL
+- JavaScript 
 
 ### 🌐 Desenvolvimento Web
 - HTML5
