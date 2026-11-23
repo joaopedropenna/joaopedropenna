@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou João Pedro Penna
 
-### Desenvolvedor Full-Stack | Back-end | Análise de Dados
+### Desenvolvedor Full-Stack | Análise de Dados
 
 <p>
   🎓 <b>Bacharelado em Engenharia de Software</b> (UBM) • 💻 <b>Tecnólogo em ADS</b> (Estácio)<br>
